@@ -2,6 +2,8 @@
 I have analysed the options traded (with a non-null volume) in the Spanish stock market. I obtained the DATA through MEFF archives .
 
 I want to portray an accurate description of the different variables and target features for an option and test the best predictors for the success of an option, with three KPI in mind: execution, net profit and ROI.
+Full articles here: http://www.dartycs.com/category/call_options/
+
 
 
 
