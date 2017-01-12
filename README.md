@@ -3,7 +3,7 @@ I have analysed the options traded (with a non-null volume) in the Spanish stock
 
 I want to portray an accurate description of the different variables and target features for an option and test the best predictors for the success of an option, with three KPI in mind: execution, net profit and ROI.
 
-Github: Python Code
+
 
 
 My first batch of data will be for the call options traded during month of November 2014 with a maturity date previous to November 2016. Later in the month, I will publish the results for the same period with put options. I will also test my results with other months in future posts.  
